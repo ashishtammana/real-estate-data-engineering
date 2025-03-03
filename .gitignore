@@ -11,3 +11,18 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# macOS system files
+.DS_Store
+
+# MinIO system files
+data/minio/.minio.sys/
+data/minio/*.csv/
+
+# Logs
+*.log
+
+# Dagster
+dagster_home/
+dagster.yaml
+
