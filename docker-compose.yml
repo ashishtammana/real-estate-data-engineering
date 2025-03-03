@@ -1,4 +1,15 @@
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd real-estate-data-engineering
+version: '3'
 
+services:
+  minio:
+    image: minio/minio
+    container_name: minio
+    ports:
+      - "9000:9000"  # S3 API
+      - "9001:9001"  # MinIO Console (UI)
+    environment:
+      MINIO_ROOT_USER: admin
+      MINIO_ROOT_PASSWORD: password123
+    volumes:
+      - ./data/minio:/data
+    command: server /data --console-address ":9001"

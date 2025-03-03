@@ -321,3 +321,9 @@ zict==2.1.0
 zipp @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b71z79bye2/croot/zipp_1672387125902/work
 zope.interface @ file:///Users/builder/ci_310/zope.interface_1642542202636/work
 zstandard @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_40ayfv1xn6/croot/zstandard_1677014126754/work
+dagster
+dagster-webserver
+dagster-daemon
+pandas
+boto3
+python-dotenv
