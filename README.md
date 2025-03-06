@@ -91,13 +91,16 @@ flowchart TD
 ## 📸 Screenshots
 
 ### 🐳 Docker Setup
-*Insert Docker screenshot here*
+<img width="1291" alt="Screenshot 2025-03-06 at 1 30 21 PM" src="https://github.com/user-attachments/assets/df6bf274-5b19-4588-94b7-62e574f0844f" />
+
+
 
 ### 🎛️ Dagster Pipeline Execution
-*Insert Dagster screenshot here*
+<img width="1435" alt="Screenshot 2025-03-06 at 1 28 58 PM" src="https://github.com/user-attachments/assets/f6fc3ca6-ba50-4e60-a971-e4f4365ce945" />
 
 ### 💾 MinIO Storage
-*Insert MinIO screenshot here*
+<img width="1290" alt="Screenshot 2025-03-06 at 1 34 46 PM" src="https://github.com/user-attachments/assets/b0f31823-7cd4-402a-b3b6-6697771fab42" />
+
 
 ---
 
